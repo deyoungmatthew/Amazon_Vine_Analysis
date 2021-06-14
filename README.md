@@ -41,3 +41,7 @@ The purposed of the analysis was to download a dataset of reviews from a specifi
 # Summary
 
 There does not appear to be any bias in the watches product line of reviews.  The vast majority of reviews come from non-paid vine reviewers and the non paid are overwhelmingly positive.
+
+**An additional anlaysis is that only 0.56% of all helpful reviews is from a paid reviewer:**
+
+![paid per](https://user-images.githubusercontent.com/78942457/121836497-864e2000-cca1-11eb-9fe3-7cd41952939e.PNG)
