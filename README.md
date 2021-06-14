@@ -36,3 +36,8 @@ The purposed of the analysis was to download a dataset of reviews from a specifi
   - 99.65% of 5 star Vine reviews were unpaid:
 
 ![five star percentage unpaid](https://user-images.githubusercontent.com/78942457/121835797-1c814680-cca0-11eb-8677-c2af9ed6c236.PNG)
+
+
+# Summary
+
+There does not appear to be any bias in the watches product line of reviews.  The vast majority of reviews come from non-paid vine reviewers and the non paid are overwhelmingly positive.
